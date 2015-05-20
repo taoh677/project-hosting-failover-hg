@@ -1,0 +1,1 @@
+Test that an hg push fails and succeeds at the appropriate points of a failover.
